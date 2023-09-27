@@ -3,7 +3,7 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 
-import '../google_map.dart';
+import '../view/google_map.dart';
 import '../viewmodel/current_position.dart';
 
 double? myLatitude;
